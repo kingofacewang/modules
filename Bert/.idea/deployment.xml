@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="malizhi@10.21.90.43:22" autoUploadExternalChanges="true">
+    <serverData>
+      <paths name="malizhi@10.21.90.43:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/malizhi/codes/project_wzltest/Bert" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
